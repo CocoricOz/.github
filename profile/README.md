@@ -1,8 +1,8 @@
-# Cocoric'Oz
+# CocoricOz
 
 **L'association des francophones en Australie** 🇫🇷 🇦🇺
 
-Cocoric'Oz est un espace **libre, neutre et communautaire** pour les francophones d'Australie. Une association à but non lucratif, **sans visée commerciale** et sans agenda caché — animée par des bénévoles.
+CocoricOz est un espace **libre, neutre et communautaire** pour les francophones d'Australie. Une association à but non lucratif, **sans visée commerciale** et sans agenda caché — animée par des bénévoles.
 
 Basés à Brisbane, présents partout : notre objectif est d'avoir un relais dans chaque État australien. 
 
